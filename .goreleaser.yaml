@@ -2,7 +2,7 @@ project_name: go-utils
 builds:
   - skip: true
 changelog:
-  skip: true
+  skip: false
   use: github
   groups:
     - title: Features
