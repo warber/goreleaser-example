@@ -9,3 +9,7 @@ import (
 func Test_Hello(t *testing.T) {
 	lib.Hello()
 }
+
+func Test_HelloWorld(t *testing.T) {
+	lib.HelloWorld()
+}
